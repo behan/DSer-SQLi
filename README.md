@@ -9,4 +9,4 @@ https://appsec-labs.com/belch
 
 I haven't had a chance to use it yet but it looks very well done.  At this point in time, I would recommend using his tool instead. 
 
-Nice job Chilik!
+Thanks Chilik!
